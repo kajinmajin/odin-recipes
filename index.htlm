@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>My First Webpage</title>
+  </head>
+
+  <body>
+    <h1>Odin Recipes</h1>
+    <a href="recipes/lasagna.html">lasagna</a>
+    <a href="recipes/chicken-roast.html">chicken roast</a>
+    <a href="recipes/potato-salad.html">potato salad</a>
+  </body>
+</html>
+
